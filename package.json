@@ -1,0 +1,35 @@
+{
+  "name": "qtax1-web",
+  "version": "1.0.0",
+  "description": "Qtax-1 commerce website UI",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redpaladin003/qtax1-web.git"
+  },
+  "keywords": [
+    "UI",
+    "UX",
+    "React",
+    "Bootstrap",
+    "HTML",
+    "CSS",
+    "SCSS",
+    "node.js"
+  ],
+  "author": "Adam Ghamraoui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redpaladin003/qtax1-web/issues"
+  },
+  "homepage": "https://github.com/redpaladin003/qtax1-web#readme",
+  "dependencies": {
+    "react": "^18.3.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
